@@ -81,6 +81,7 @@ ICONS = {
     'txt,rst,rest': 'text',
     'vue': 'vue',
     'xml,svg,yml,yaml,cfg,ini': 'xml',
+    'sp': 'sourcepawn',
 }
 
 # Scopes we can/should fallback to
