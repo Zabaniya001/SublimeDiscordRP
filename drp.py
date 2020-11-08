@@ -102,6 +102,7 @@ SCOPES = {
     'pawn',
     'python',
     'scala',
+    'sourcepawn',
 }
 
 def get_icon(file, ext, _scope):
